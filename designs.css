@@ -1,0 +1,13 @@
+.text_box{
+    width: 750px;
+    height: 250px;
+    background-color: #e4e4e4;
+    border: 1px solid #000000;
+    padding: 10px;
+    font-family: Consolas, sans-serif;
+    text-align: center;
+    overflow-wrap: break-word;
+    margin: 0 auto;
+}
+
+
